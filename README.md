@@ -2,7 +2,7 @@
 
 
 ---
-### Projet académique (L1 informatique)
+### Projet académique (L1 math-info)
 ## 📖 Description
 
 **MineQuest** est un jeu d'exploration en mode console développé en Java. Le joueur navigue sur un plateau de salles cachées, ramasse des ressources, utilise des outils de détection et tente d'atteindre une sortie sans tomber sur une mine.
