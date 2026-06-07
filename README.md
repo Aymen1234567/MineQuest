@@ -115,7 +115,6 @@ java -jar dist/Projet2024_base.jar
 | Nom | Prénom |
 |---|---|
 | BERRAMDANI | Aymen |
-| BOUAIA | Zineddine |
 
 ---
 
