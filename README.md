@@ -1,6 +1,5 @@
 # MineQuest — Jeu d'Exploration en Java
 
-> Projet réalisé par **Aymen Berramdani** & **Zineddine Bouaia**
 
 ---
 
